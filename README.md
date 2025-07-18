@@ -8,7 +8,9 @@ This repo contains all tasks and supporting files completed as part of the inter
 The internship is divided into 3 levels, each containing one or more tasks. Each task includes:
 
 Excel files: Raw and cleaned datasets.
+
 Text or Markdown documents: Task explanations, step-by-step notes, insights
+
 Code Files: code with explanation
 
 
