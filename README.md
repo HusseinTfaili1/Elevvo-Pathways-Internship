@@ -5,14 +5,16 @@ This repo contains all tasks and supporting files completed as part of the inter
 
 
 
-The internship is divided into 3 levels, each containing one or more tasks. Each task includes:
+The internship is divided into 3 levels, each containing one or more tasks. 
+
+Each task includes:
 
 Excel files: Raw and cleaned datasets.
 
-Text or Markdown documents: Task explanations, step-by-step notes, insights
+Text or Markdown documents: Task explanations, step-by-step notes, insights.
 
-Code Files: code with explanation
+Code Files: code with explanation.
 
 
-Thank you to Elevvo Pathways for this opportunity.
+Thank you to Elevvo Pathways for this opportunity!
 I’ll be updating this repository as I complete each level and will share the GitHub link on LinkedIn.
