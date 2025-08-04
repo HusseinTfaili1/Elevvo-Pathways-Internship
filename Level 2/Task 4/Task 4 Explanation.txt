@@ -1,0 +1,15 @@
+In this task, i used the Kaggle Data Science Survey (2017–2021), which includes real-world responses from data professionals. 
+
+The dataset contained missing values, duplicate records, and inconsistently formatted entries.
+
+Using Python and relevant libraries (like Pandas, NumPy, and Matplotlib):
+
+1) Cleaned the dataset by removing duplicates and handling missing or inconsistent data.
+
+2) Applied label encoding and mappings to transform categorical variables into a usable format for analysis.
+
+3) Explored respondent preferences such as favorite programming languages, most used tools, and job titles.
+
+4) Generated insights on trends in the data science community based on survey responses.
+
+5) Visualized the top 5 insights using charts and summarized them in a simple dashboard.
