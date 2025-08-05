@@ -1,0 +1,23 @@
+Data: https://www.kaggle.com/datasets/ranasabrii/chinook
+
+
+
+Using DB Browser for SQLite i opened the Chinook_Sqlite.sqlite file downloaded from Kaggle
+
+Checked the table names to understand the structure and columns of important tables like InvoiceLine, Track, Invoice, and Customer.
+
+* Analyze Top-Selling Products
+Using SQL to find which tracks (products) sold the most and group data by product and sort by total quantity sold.
+
+* Calculate Revenue by Country
+Link invoices with customer info to get country data then sum total revenue per country to see which regions are most profitable.
+
+* Analyze Monthly Sales
+Extract the month and year from invoice dates and group data by month to track revenue trends over time.
+
+* Combine Product and Sales Info
+Use JOINs to connect product, album, and artist info with sales data then summarize sales per track with artist names for deeper insights.
+
+Bonus - Use Window Function
+Apply a window function like RANK to find the top-selling product in each country.
+
